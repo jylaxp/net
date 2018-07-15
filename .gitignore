@@ -1,0 +1,38 @@
+# IntelliJ
+*.ipr
+*.iml
+*.iws
+.idea/
+
+#
+# Eclipse metadata.
+#
+.mymetadata
+.project
+*/.project
+.classpath
+*/.classpath
+.settings/
+*/.settings
+.myeclipse/
+
+#
+# Eclipse and Maven idea output folders.
+#
+bin/
+*/**/bin
+target/
+*/target/
+out/
+*.class
+.svn/
+build/
+
+#
+# Mac folders.
+#
+
+.DS_Store
+*/.DS_Store
+*.log
+*.orig
