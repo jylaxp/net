@@ -14,6 +14,6 @@ public class EchoClientImpl implements EchoClient {
      */
     @Override
     public void start(String host, int port) throws IOException {
-        
+        // 没有阻塞异步模式
     }
 }
